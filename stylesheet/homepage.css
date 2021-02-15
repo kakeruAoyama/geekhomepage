@@ -27,7 +27,7 @@ header {
 
 
 #first-block {
-  background-image: url("../images/asai.jpg");
+  background-image: url("../images/floor.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -35,7 +35,7 @@ header {
 }
 
 .info-container {
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(133, 207, 36, 0.589);
   height: 600px;
   width: 500px;
   display: flex;
@@ -125,6 +125,7 @@ span{
 .mybtn-insta {
   background: #3b539a;
   border-radius: 40px;
+  margin-bottom: 16px;
 }
 
 .mybtn-tw {
